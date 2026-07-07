@@ -1,0 +1,13 @@
+TechCorp fue fundada en 2010 en Quito, Ecuador.
+Tiene 150 empleados y oficinas en Ecuador, Colombia y Perú.
+Sus productos son: SoftPanel, DataSync y CloudManager.
+SoftPanel es un sistema de gestión empresarial lanzado en 2015.
+DataSync sincroniza datos entre sistemas en tiempo real.
+CloudManager administra infraestructura en la nube.
+El CEO es Roberto Mendez desde 2018.
+Las ventas anuales superan los 5 millones de dólares.
+El soporte técnico está disponible de lunes a viernes de 8h a 18h.
+Los precios de SoftPanel empiezan desde $299 al mes.
+DataSync cuesta $199 al mes y CloudManager $399 al mes.
+Para ventas contactar a ventas@techcorp.com.
+Para soporte contactar a soporte@techcorp.com.
