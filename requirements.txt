@@ -1,0 +1,5 @@
+anthropic
+flask
+sentence-transformers
+numpy
+python-dotenv
