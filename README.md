@@ -14,6 +14,12 @@ Chatbot empresarial construido con Claude AI que combina RAG, agentes y memoria 
 - Sentence Transformers
 - Flask
 
+## Despliegue
+
+Este proyecto está pensado para ejecutarse localmente. `sentence-transformers` depende de PyTorch, que por sí solo supera los 512MB de RAM disponibles en los tiers gratuitos de hosting típicos (Render, Railway), por lo que no está desplegado en vivo.
+
+Ver [`analizador-pdf`](https://github.com/marjoriefp8/analizador-pdf) y [`agenteWeb`](https://github.com/marjoriefp8/agenteWeb) para demos en vivo de proyectos con requisitos de memoria más livianos.
+
 ## Instalación
 1. Clona el repositorio
 2. Instala dependencias: `pip install -r requirements.txt`
